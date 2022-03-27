@@ -115,7 +115,7 @@ header label {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(/home-bg-img.png) no-repeat;
+  background: url(home-bg-img.png) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -190,7 +190,7 @@ header label {
 }
 
 .about {
-  background: url(/about-bg.png);
+  background: url(about-bg.png);
   background-size: cover;
   background-position: center;
   padding-bottom: 3rem;
@@ -233,7 +233,7 @@ header label {
 .newsletter {
   text-align: center;
   padding: 5rem 1rem;
-  background: url(/subscribe-bg.png) no-repeat;
+  background: url(subscribe-bg.png) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -471,7 +471,7 @@ header label {
 
 .footer{
   padding-top: 3rem;
-  background: url(/footer-bg.png) no-repeat;
+  background: url(footer-bg.png) no-repeat;
   background-size: cover;
   background-position: center;
 }
